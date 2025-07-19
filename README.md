@@ -1,16 +1,18 @@
 <h2>Python Flask App</h2>
-This repository consists on how to build a simple Python Flask App.
+<pre>This repository consists on how to build a simple Python Flask App.</pre>
 
 <h2> Author</h2>
+<pre>
 Sean Daweng
+</pre>
 
 
 <h2> Tech includes Python + Flask <h/2>
-<ul>
-<li>Tools: python3, flask, docker</li>
-<li>Goal: Containerize a basic Flask web app (hello-world API)</li>
-<li>Skills: Multi-stage builds, exposing ports, and using requirements.txt.</li>
-</ul>
+<pre>
+Tools: python3, flask, docker
+Goal: Containerize a basic Flask web app (hello-world API)
+Skills: Multi-stage builds, exposing ports, and using requirements.txt.
+</pre>
 
 <h2>Repository Structure</h2>
 <pre>
