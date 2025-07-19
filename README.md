@@ -10,7 +10,7 @@ Sean Daweng
 <h2> Tech includes Python + Flask <h/2>
 <pre>
 Tools: python3, flask, docker
-Goal: Containerize a basic Flask web api(hello-world API)
+Goal: Containerize a basic Flask web app(hello-world API)
 Skills: Multi-stage builds, exposing ports, and using requirements.txt.
 </pre>
 
